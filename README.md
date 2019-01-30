@@ -1,2 +1,1 @@
-# G547
- - Device Drivers
+# G547 - Device Drivers
